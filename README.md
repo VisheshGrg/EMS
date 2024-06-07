@@ -5,7 +5,9 @@ EMS is a web-based application developed using ReactJS and Java for managing emp
 ## Features
 
 - **User Authentication**: Employees can register and login to their accounts securely. Employees can also login using OTP and reset password.
-![Image][images/img1.png]
+![Image](images/img1.png)
+![Image](images/img2.png)
+![Image](images/img3.png)
 - **Profile Management**: Employees can update their personal information, view salary details, and check their leave request status.
 - **Attendance Management**: Employees can punch in/out within the location of the office. Administrators can view punching status for all employees.
 - **Leave Management**: Employees can submit leave requests, and administrators can approve or reject them.
