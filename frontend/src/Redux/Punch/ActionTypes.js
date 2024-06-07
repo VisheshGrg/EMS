@@ -1,0 +1,3 @@
+export const PUNCH_REQUEST = "PUNCH_REQUEST";
+export const PUNCH_SUCCESS = "PUNCH_SUCCESS";
+export const PUNCH_FAILURE = "PUNCH_FAILURE";
